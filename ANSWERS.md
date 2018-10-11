@@ -1,4 +1,4 @@
-# Q0: Why is this error being thrown?
+# Q0: Why are these two errors being thrown?
 
 # Q1: How are the random Pokemon appearing? What is the common factor between all the possible Pokemon that appear? *
 
