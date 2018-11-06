@@ -45,7 +45,6 @@ class PokemonsController < ApplicationController
     private
         def pokemon_params
             params.require(:pokemon).permit(:name, :ndex)
-            params.merge({health: 100, level: 1, trainer_id: current_trainer.id})
         end
 
 end
